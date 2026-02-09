@@ -1,0 +1,3 @@
+[catalogs.msrest-for-python]
+type = "git"
+url = "https://github.com/limeytexan/msrest-for-python"

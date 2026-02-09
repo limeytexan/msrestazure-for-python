@@ -1,0 +1,21 @@
+{
+  "catalogs": {
+    "msrest-for-python": {
+      "type": "nix",
+      "hash": "sha256-Hy0L7PPSTO3eRVE7xcNYXiLQUxvtMdgUVbVY+4auoYw=",
+      "locked": {
+        "lastModified": 1770786606,
+        "ref": "refs/heads/master",
+        "rev": "ae0edb20d1d5984906e0b8408aee0253e7b12b5f",
+        "revCount": 349,
+        "type": "git",
+        "url": "https://github.com/limeytexan/msrest-for-python"
+      },
+      "original": {
+        "type": "git",
+        "url": "https://github.com/limeytexan/msrest-for-python"
+      },
+      "storePath": "/nix/store/i04zl8hmjv1r0m2xlisnyjfbx1pn4m1c-source"
+    }
+  }
+}
